@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/chartdemo1/static/css/main.f3b21dc4.chunk.css",
+    "main.js": "/chartdemo1/static/js/main.c3a999b2.chunk.js",
+    "main.js.map": "/chartdemo1/static/js/main.c3a999b2.chunk.js.map",
+    "runtime-main.js": "/chartdemo1/static/js/runtime-main.c7cd03a5.js",
+    "runtime-main.js.map": "/chartdemo1/static/js/runtime-main.c7cd03a5.js.map",
+    "xlsx.js": "/chartdemo1/static/js/xlsx.e85ca7bb.chunk.js",
+    "xlsx.js.map": "/chartdemo1/static/js/xlsx.e85ca7bb.chunk.js.map",
+    "static/js/3.d6f269ca.chunk.js": "/chartdemo1/static/js/3.d6f269ca.chunk.js",
+    "static/js/3.d6f269ca.chunk.js.map": "/chartdemo1/static/js/3.d6f269ca.chunk.js.map",
+    "static/js/4.cc134ee0.chunk.js": "/chartdemo1/static/js/4.cc134ee0.chunk.js",
+    "static/js/4.cc134ee0.chunk.js.map": "/chartdemo1/static/js/4.cc134ee0.chunk.js.map",
+    "static/js/5.f53a5dab.chunk.js": "/chartdemo1/static/js/5.f53a5dab.chunk.js",
+    "static/js/5.f53a5dab.chunk.js.map": "/chartdemo1/static/js/5.f53a5dab.chunk.js.map",
+    "static/js/6.1cfce684.chunk.js": "/chartdemo1/static/js/6.1cfce684.chunk.js",
+    "static/js/6.1cfce684.chunk.js.map": "/chartdemo1/static/js/6.1cfce684.chunk.js.map",
+    "index.html": "/chartdemo1/index.html",
+    "static/css/main.f3b21dc4.chunk.css.map": "/chartdemo1/static/css/main.f3b21dc4.chunk.css.map",
+    "static/js/4.cc134ee0.chunk.js.LICENSE.txt": "/chartdemo1/static/js/4.cc134ee0.chunk.js.LICENSE.txt",
+    "static/js/5.f53a5dab.chunk.js.LICENSE.txt": "/chartdemo1/static/js/5.f53a5dab.chunk.js.LICENSE.txt",
+    "static/js/6.1cfce684.chunk.js.LICENSE.txt": "/chartdemo1/static/js/6.1cfce684.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7cd03a5.js",
+    "static/js/4.cc134ee0.chunk.js",
+    "static/css/main.f3b21dc4.chunk.css",
+    "static/js/main.c3a999b2.chunk.js"
+  ]
+}
